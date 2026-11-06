@@ -1,0 +1,4 @@
+Scenario,Distance (km),Frequency (GHz),Bandwidth (MHz),FSPL (dB),Received Power (dBm),Noise Power (dBm),SNR (dB),Sensitivity (dBm),Link Margin (dB),Status
+3.5 GHz Sub-6,1,3.5,20.0,103.32,-60.32,-95.99,35.67,-85.99,25.67,VIABLE
+28 GHz mmWave,1,28.0,100.0,121.38,-60.38,-87.0,26.62,-77.0,16.62,VIABLE
+12 GHz LEO,550,12.0,100.0,168.83,-76.83,-92.0,15.17,-84.0,7.17,VIABLE
